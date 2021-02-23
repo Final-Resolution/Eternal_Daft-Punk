@@ -1,5 +1,5 @@
 # Eternal_Daft-Punk
-Kicad-footprints about daft punk logo
+Kicad-footprints about Daft Punk logo
 
 
 # Background
